@@ -36,8 +36,6 @@ flutter:
       android:
         package: com.sersoluciones.flutter_pos_printer_platform
         pluginClass: FlutterPosPrinterPlatformPlugin
-      ios:
-        pluginClass: FlutterPosPrinterPlatformPlugin
       windows:
         pluginClass: FlutterPosPrinterPlatformPlugin
 
